@@ -1,0 +1,35 @@
+#footer {
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    color: #fff;   
+}
+.footer-img {
+    width: 100%;
+}
+.footer-box {
+    padding: 20px;
+}
+.footer-box img {
+    width: 120px;
+    margin-bottom: 20px;
+}
+.footer-box .form-control {
+    box-shadow: none !important;
+    border: none;
+    border-radius: 0;
+    margin-top: 30px;
+    max-width: 250px;
+}
+.footer-box .btn-primary {
+    box-shadow: none !important;
+    border: none;
+    border-radius: 4px;
+    padding: 8px;
+    margin-top: 15px;
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    color: #fff;
+}
+.copyright {
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    text-align: center;
+}

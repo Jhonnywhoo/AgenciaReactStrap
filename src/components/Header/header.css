@@ -1,0 +1,19 @@
+.brand a{
+    width: 221px;
+	height: 48px;
+	float: left;
+	font-size: 0;
+    background: url('./img/demo-logo.png') no-repeat !important;
+}
+
+.navitem {
+    background: #fdf2fdf8;
+    border-radius: 4px;
+    margin-right: 12px;
+}  
+
+
+.navbar {
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    width: 100%;
+}

@@ -1,0 +1,58 @@
+/* ------------------------SOBRE NÓS--------------*/
+
+#about-us {
+    background: #f8f9fa;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.about-title {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 8%;
+}
+#about-us ul li {
+    margin: 10px 0;
+}
+#about-us ul {
+    margin-left: 20px;
+}
+
+/* -------------------------------- AVALIAÇÕES -----------  */
+
+#testimonials {
+    margin: 100px 0;
+}
+.testimonials {
+    border-left: 4px solid #7b1798;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.testimonials img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+.user-details {
+    display: inline-block;
+    font-size: 12px;
+}
+
+/* -------------------MÍDIAS SOCIAIS---------------*/
+
+#social-media {
+    background: #f8f9fa;
+    padding: 100px 0;
+}
+#social-media p {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.social-icons img{
+    width: 60px;
+    transition: 0.5s;
+}
+.social-icons a:hover img {
+    transform: translateY(-10px);
+}
